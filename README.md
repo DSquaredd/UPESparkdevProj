@@ -1,5 +1,5 @@
 # UPESparkdevProj
-Code to control autonomous mobile robot and extinguish short distance single flame fire.  
+Program to control autonomous mobile robot and extinguish short distance single flame fire.  
 
 In Spring 2022 I was part of the UPE Sparkdev Robotics team, we designed and built a fire extinguishing robot. We used arduino to program motor control and used ROS with a LIDAR sensor to detect obsticles.  
 

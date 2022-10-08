@@ -3,7 +3,7 @@ Code to control autonomous mobile robot and extinguish short distance single fla
 
 In Spring 2022 I was part of the UPE Sparkdev Robotics team, we designed and built a fire extinguishing robot. We used arduino to program motor control and used ROS with a LIDAR sensor to detect obsticles.  
 
-I was responsible of making sure the hardware was working corretly and programmming motor control, servo actuation, proximity sensor, and LEDs. 
+I was responsible of making sure the hardware was working corretly and programming motor control, servo actuation, proximity sensor, and LEDs. 
 occasionally had to solder parts. 
 
 Code provided is a draft to motor control, many issues present with sensor information and LIDAR connection.
